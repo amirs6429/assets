@@ -9,4 +9,11 @@
     "decimals": 18,
     "status": "active",
     "id": "0x070a08BeEF8d36734dD67A491202fF35a6A16d97"
+    "links": [
+        
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/smooth-love-potion/"
+        }
+    ]
 }
